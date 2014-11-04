@@ -1,7 +1,7 @@
 {
-    "name":"Ocean Hotel",
-    "thumbnail":"oceanhotel.png",
-    "screenshot":"oceanhotel.png",
+    "name":"Patriot",
+    "thumbnail":"patriot.png",
+    "screenshot":"patriot.png",
     "pageTypes": ["home"],
     "templateType":"standard",
     "tags": {
@@ -14,8 +14,8 @@
         "Swatch 1": {
             "color1":"#ffffff",
             "color2":"#eeeeee",
-            "color3":"#8da9ba",
-            "color4":"#496e8c",
+            "color3":"#212A4F",
+            "color4":"#AC2736",
             "color5":"#b5b5b5",
             "color6":"#ffffff",
             "color7":"#000000"
@@ -60,7 +60,7 @@
     "fontSwatch": {
        "title": "Montserrat",
         "font1": {
-            "font-family": "\"Montserrat\", \"Trebuchet MS\", Helvetica, sans-serif",
+            "font-family": "\"Arvo\", Georgia, serif",
             "font-size": "32px",
             "font-weight": "inherit",
             "line-height": "42px",
@@ -68,7 +68,7 @@
             "letter-spacing": "inherit"
         },
         "font2": {
-            "font-family": "\"Montserrat\", \"Trebuchet MS\", Helvetica, sans-serif",
+            "font-family": "\"Arvo\", Georgia, serif",
             "font-size": "28px",
             "font-weight": "inherit",
             "line-height": "38px",
@@ -76,7 +76,7 @@
             "letter-spacing": "inherit"
         },
         "font3": {
-            "font-family": "\"Montserrat\", \"Trebuchet MS\", Helvetica, sans-serif",
+            "font-family": "\"Arvo\", Georgia, serif",
             "font-size": "24px",
             "font-weight": "inherit",
             "line-height": "34px",
@@ -84,7 +84,7 @@
             "letter-spacing": "inherit"
         },
         "font4": {
-            "font-family": "\"Montserrat\", \"Trebuchet MS\", Helvetica, sans-serif",
+            "font-family": "\"Arvo\", Georgia, serif",
             "font-size": "20px",
             "font-weight": "inherit",
             "line-height": "30px",
@@ -100,7 +100,7 @@
             "letter-spacing": "inherit"
         },
         "font6": {
-            "font-family": "\"Montserrat\", \"Trebuchet MS\", Helvetica, sans-serif",
+            "font-family": "\"Arvo\", Georgia, serif",
             "font-size": "14px",
             "font-weight": "300",
             "line-height": "28px",
@@ -111,7 +111,7 @@
             "background-color-hover": "@color-swatch3"
         },
         "font7": {
-            "font-family": "\"Montserrat\", \"Trebuchet MS\", Helvetica, sans-serif",
+            "font-family": "\"Arvo\", Georgia, serif",
             "font-size": "15px",
             "font-weight": "inherit",
             "line-height": "36px",
@@ -121,7 +121,7 @@
             "background-color-hover": "darken(@color-swatch3,5%)"
         },
         "font8": {
-            "font-family": "\"Montserrat\", \"Trebuchet MS\", Helvetica, sans-serif",
+            "font-family": "\"Arvo\", Georgia, serif",
             "font-size": "57px",
             "font-weight": "300",
             "line-height": "67px",
@@ -129,7 +129,7 @@
             "letter-spacing": "2px"
         },
         "font9": {
-            "font-family": "\"Montserrat\", \"Trebuchet MS\", Helvetica, sans-serif",
+            "font-family": "\"Arvo\", Georgia, serif",
             "font-size": "15px",
             "font-weight": "inherit",
             "line-height": "25px",
@@ -137,7 +137,7 @@
             "letter-spacing": "3px"
         },
         "font10": {
-            "font-family": "\"Montserrat\", \"Trebuchet MS\", Helvetica, sans-serif",
+            "font-family": "\"Arvo\", Georgia, serif",
             "font-size": "20px",
             "font-weight": "300",
             "line-height": "30px",
