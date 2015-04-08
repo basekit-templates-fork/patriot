@@ -30,7 +30,6 @@ body {
 
 .canvas .widget {
     clear: both;
-    margin-bottom: 15px;
 }
 
 .header-wrapper {
@@ -216,7 +215,7 @@ header.bk-header {
   background-position: right 10px;
   background-repeat: no-repeat;
   cursor: pointer;
-}
+}     
 
 .widget.extendednavigation ul li.folder:hover {
   background-color: none;
@@ -299,7 +298,7 @@ header.bk-header {
             }
             .spare {
                 padding: 13em 0 9em;
-                max-width: 860px;
+                max-width: 860px; 
                 margin: 0 auto;
                 @media @tablet {
                     padding: 10em 0 6em;
@@ -435,12 +434,12 @@ button, button.btn, .blogsearch form button {
 
 // General
 .widget.button button,
-button.btn,
-.widget.profile form button,
-.contactform button.btn,
+button.btn, 
+.widget.profile form button, 
+.contactform button.btn, 
 .btn,
-.widget.dropbox button,
-.checkout-order-button,
+.widget.dropbox button, 
+.checkout-order-button, 
 .checkout-empty-link,
 .widget.tweet a,
 .widget.paypalbuynow .widget.button.paypal,
@@ -514,14 +513,8 @@ button.btn,
     background-color: darken(@color-swatch3,5%);
 }
 
-@media only screen and (min-width: 768px) {
-    .widget.content .bk-content-text {
-        overflow: visible!important;
-        height: auto!important;
-    }
-    .widget.content span.expand {
-        display:none!important;
-    }
+.expand .more, .expand .less {
+    color: @font-swatch7-color;
 }
 
 // Signup
@@ -529,7 +522,7 @@ button.btn,
     margin-bottom: 20px;
     input {
         margin-right: 4px;
-    }
+    }  
 }
 
 /* ===============================
@@ -811,7 +804,7 @@ hr.line {
     text-shadow: 0px 1px 1px rgba(0,0,0,0.1);
     width:100%;
 }
-
+  
 .widget.contactform fieldset button.btn:hover {
   background-color: @font-swatch7-background-color-hover;
   cursor: pointer;
@@ -832,7 +825,7 @@ hr.line {
 }
 
 .widget.socialicons a, .widget.profile .bk-profile-socialicons a {
-    text-decoration: none;
+    text-decoration: none;  
     text-indent: 9999px;
     overflow: hidden;
     white-space: nowrap;
@@ -855,7 +848,7 @@ hr.line {
     background-position: center;
 }
 
-.widget.socialicons span a:hover, .widget.profile
+.widget.socialicons span a:hover, .widget.profile 
 .bk-profile-socialicons span a:hover {
     background-color: @font-swatch7-background-color-hover;
 }
@@ -1227,7 +1220,7 @@ hr.line {
       padding: 0px;
       margin:0px 0px 30px 0px;
     }
-    tr:first-child {
+    tr:first-child { 
           outline: 1px solid darken(@color-swatch1,10%);
             background-color: darken(@color-swatch1,4%);
             -webkit-border-top-left-radius: 4px;
@@ -1658,7 +1651,7 @@ hr.line {
     margin-bottom: 10px;
 }
 
-// Price
+// Price 
 .standard-price {
     color: @font-swatch4-color;
     font-family: @font-swatch4-font-family;
@@ -1689,7 +1682,7 @@ hr.line {
 
   .canvas {
     width: 100%;
-  }
+  } 
 
   .main {
     padding: 40px 0px;
@@ -1722,7 +1715,7 @@ hr.line {
     }
 
     // Alignments
-
+    
     .widget .extendednavigation ul li.folder {
         padding-right: 0;
         background-position: 20px center;
@@ -1776,7 +1769,7 @@ hr.line {
 
     .widget.twitter .twitter-content {
       font-size: .9em;
-    }
+    } 
 
     .widget.twitter .twitter-profile-pic {
       display:none;
@@ -1797,7 +1790,7 @@ hr.line {
    IPHONE WIDTH
    =============================== */
 
-@media only screen and (max-width: 480px) {
+@media only screen and (max-width: 480px) { 
 
    .main {
     padding: 20px 0px;
