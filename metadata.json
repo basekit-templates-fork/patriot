@@ -1,64 +1,107 @@
 {
-    "name":"Patriot",
-    "thumbnail":"patriot.png",
-    "screenshot":"patriot.png",
-    "pageTypes": ["home"],
-    "templateType":"standard",
+    "name": "Patriot",
+    "thumbnail": "patriot.png",
+    "screenshot": "patriot-screenshot.jpg",
+    "pageTypes": [
+        "home"
+    ],
+    "templateType": "standard",
     "tags": {
-    "en": ["fullscreen", "dark", "photography", "modern", "stylish", "agency", "magazine", "creative", "elegant", "professional", "sophisticated", "media", "sans-serif"],
-    "es": ["pantalla completa", "oscuro", "fotografico", "moderno", "estilo", "agencia", "revista", "creativo", "elegante", "profesional", "sofisticado", "comunicacion", "sans-serif"],
-    "br": ["expandido", "escuro", "fotografia", "moderno", "estilo", "agência", "revista", "criativo", "elegante", "profissional", "sofisticado", "mídia", "sans-serif"]
+        "en": [
+            "fullscreen",
+            "dark",
+            "photography",
+            "modern",
+            "stylish",
+            "agency",
+            "magazine",
+            "creative",
+            "elegant",
+            "professional",
+            "sophisticated",
+            "media",
+            "sans-serif"
+        ],
+        "es": [
+            "pantalla completa",
+            "oscuro",
+            "fotografico",
+            "moderno",
+            "estilo",
+            "agencia",
+            "revista",
+            "creativo",
+            "elegante",
+            "profesional",
+            "sofisticado",
+            "comunicacion",
+            "sans-serif"
+        ],
+        "br": [
+            "expandido",
+            "escuro",
+            "fotografia",
+            "moderno",
+            "estilo",
+            "ag\u00eancia",
+            "revista",
+            "criativo",
+            "elegante",
+            "profissional",
+            "sofisticado",
+            "m\u00eddia",
+            "sans-serif"
+        ]
     },
-    "colorSwatches":
-    {
+    "colorSwatches": {
         "Swatch 1": {
-            "color1":"#ffffff",
-            "color2":"#eeeeee",
-            "color3":"#212A4F",
-            "color4":"#AC2736",
-            "color5":"#b5b5b5",
-            "color6":"#ffffff",
-            "color7":"#000000"
+            "color1": "#ffffff",
+            "color2": "#eeeeee",
+            "color3": "#212A4F",
+            "color4": "#AC2736",
+            "color5": "#b5b5b5",
+            "color6": "#ffffff",
+            "color7": "#000000"
         },
         "Swatch 2": {
-            "color1":"#ffffff",
-            "color2":"#eeeeee",
-            "color3":"#b7af9c",
-            "color4":"#595240",
-            "color5":"#b5b5b5",
-            "color6":"#ffffff",
-            "color7":"#000000"
+            "color1": "#ffffff",
+            "color2": "#eeeeee",
+            "color3": "#b7af9c",
+            "color4": "#595240",
+            "color5": "#b5b5b5",
+            "color6": "#ffffff",
+            "color7": "#000000"
         },
         "Swatch 3": {
-            "color1":"#ffffff",
-            "color2":"#f2f2f2",
-            "color3":"#50BFEE",
-            "color4":"#0d85b7",
-            "color5":"#b5b5b5",
-            "color6":"#ffffff",
-            "color7":"#000000"
+            "color1": "#ffffff",
+            "color2": "#f2f2f2",
+            "color3": "#50BFEE",
+            "color4": "#0d85b7",
+            "color5": "#b5b5b5",
+            "color6": "#ffffff",
+            "color7": "#000000"
         },
         "Swatch 4": {
-            "color1":"#ffffff",
-            "color2":"#f2f2f2",
-            "color3":"#546B97",
-            "color4":"#263248",
-            "color5":"#b5b5b5",
-            "color6":"#ffffff",
-            "color7":"#000000"
+            "color1": "#ffffff",
+            "color2": "#f2f2f2",
+            "color3": "#546B97",
+            "color4": "#263248",
+            "color5": "#b5b5b5",
+            "color6": "#ffffff",
+            "color7": "#000000"
         },
         "Swatch 5": {
-            "color1":"#ffffff",
-            "color2":"#eeeeee",
-            "color3":"#B4B3B3",
-            "color4":"#000000",
-            "color5":"#b5b5b5",
-            "color6":"#ffffff",
-            "color7":"#000000"
+            "color1": "#ffffff",
+            "color2": "#eeeeee",
+            "color3": "#B4B3B3",
+            "color4": "#000000",
+            "color5": "#b5b5b5",
+            "color6": "#ffffff",
+            "color7": "#000000"
         }
     },
     "fontSwatch": {
-       "title": "Montserrat",
+        "title": "Montserrat",
         "font1": {
             "font-family": "\"Arvo\", Georgia, serif",
             "font-size": "32px",
